@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything beginner friendly
-- 📫 How to reach me gmail: jakub.sobola@gmail.com
 - I'm a beginner trying to learn all kinds of stuff in python, feel free to reach me.
 
 <!---
